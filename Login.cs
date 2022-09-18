@@ -1,1 +1,1 @@
-opt using magfa
+opt using Magfa
